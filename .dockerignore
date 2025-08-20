@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+.git
+.gitignore
+.dockerignore
+Dockerfile
+docker-compose.yml
+README.md
+cnn-spm.keras
+models/
+export_model.py
+test.py
